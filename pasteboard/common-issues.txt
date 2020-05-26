@@ -1,0 +1,6 @@
+Error loading preference bundles:
+Ensure you have RocketBootstrap and PreferenceLoader updated to the latest release.
+
+In App Purchases not working after using LocalIAPStore:
+Reinstall the tweak, disable the tweak, then uninstall the tweak.
+
