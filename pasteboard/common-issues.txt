@@ -4,3 +4,5 @@ Ensure you have RocketBootstrap and PreferenceLoader updated to the latest relea
 In App Purchases not working after using LocalIAPStore:
 Reinstall the tweak, disable the tweak, then uninstall the tweak.
 
+How to install a better package manager (Sileo):
+https://www.reddit.com/r/jailbreak/comments/fe7t5l/tutorial_the_no_bs_solution_for_sileo_on_unc0ver/

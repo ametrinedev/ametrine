@@ -1,0 +1,5 @@
+Install Choicy from http://apt.thebigboss.org/repofiles/cydia.
+Navigate to settings, and find the Choicy settings tab.
+Click Applications, and navigate to the app you wish to bypass.
+Click 'Disable Tweak Injection'.
+Profit
