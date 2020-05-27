@@ -1,7 +1,5 @@
-Use this 200 iq method:
-
-Disable half your tweaks with icleaner pro.
-If the issue stops, you know faulty tweak is in that half.
+Disable half your tweaks with iCleaner Pro.
+If the issue stops, you know the faulty tweak is in that half.
 If it still occurs, it's in the other. 
-Then, halve the half that you know has the faulty tweak in it.
+Then, half the half that you know has the faulty tweak in it.
 Repeat until bad tweak is found.
