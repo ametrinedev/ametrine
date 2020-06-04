@@ -8,7 +8,7 @@ geniusbar/png - Images post-photoshop with arrows attached
 geniusbar/psd - PSD files for the final images  
 
 ## Updates to come / Goals
-geniusbar/fixes - Tweaks to fix or execute common tasks with the push of a button (CC/Activator integration?)  
+~~geniusbar/fixes - Tweaks to fix or execute common tasks with the push of a button (CC/Activator integration?)~~  
 ~~geniusbar/guides - Written guides rather than quick fixes for certain issues/tweaks (ReProvision, AltStore, etc.)~~  
 geniusbar/repo - Repository to host geniusbar/fixes and potentially future personal tweaks, though this may change  
 ItHertzSoGood/ithertzsogood.github.io - GitHub Pages site to act as the frontend host of the repository  
