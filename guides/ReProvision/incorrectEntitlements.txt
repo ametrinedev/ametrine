@@ -1,0 +1,9 @@
+Error:
+    For '(null)':
+    Incorrect entitlements for this application. This is likely casued by ReProvision not supporting a capability this application needs.
+
+Explanation:
+    This error occurs occasionally when the unc0ver app is pirated from a signing service, and has been modified and not suitable to sign by ReProvision.
+
+Solution:
+    Go to the Troubleshooting tab, click Manage Certificates and click Revoke All Certificates. Ensure the unc0ver app is deleted from your home screen. Go to the settings app and ensure the profile is gone. Download the unc0ver .ipa file from https://unc0ver.dev/ and use the Share Sheet to Copy to ReProvision, where it will sign the correct .ipa. Reboot and rejailbreak.

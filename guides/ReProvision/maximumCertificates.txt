@@ -1,0 +1,13 @@
+Error:
+    For 'unc0ver':
+    This app could not be installed because there already are 3 signed apps installed. Automatic resigning needs at maximum 2 apps installed via your account.
+
+Explanation:
+    You might have offloaded apps that are interfering with ReProvision, you might already have the maximum number of apps installed, or your Apple ID has the maximum number of certificates generated.
+    ReProvision also is a bit buggy when it comes to resigning, causing it to think that it is actually installing another app.
+
+Solution:
+    1.) Troubleshooting tab > Manage Certificates > Revoke All Certificates
+    2.) Ensure the app and AltStore are removed from the home screen and in Settings > General > Profiles & Device Management
+    3.) Download the .ipa from https://unc0ver.dev/ and use the share sheet to Copy to ReProvision
+    4.) Sign the .ipa and ensure it works
