@@ -5,4 +5,4 @@
 [Restore RootFS](/png/unc0ver/rootfs.png)  
 [Refresh Icon Cache](/png/unc0ver/uicache.png)  
   
-  ###### Made with ♡ by Dudeamax99 and quiprr
+###### Made with ♡ by Dudeamax99 and quiprr
