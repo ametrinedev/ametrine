@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-redirect-from
+
+title: Ametrine Development
+google_analytics: UA-168687465-1
