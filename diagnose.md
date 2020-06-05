@@ -8,7 +8,7 @@ Lets get started. If you have a tweak breaking an app or you cannot jailbreak, l
 
 3.) Click the + icon on the left of your screen, click Cydia Substrate Addons, and disable half of the tweaks with a blue ticker. DO NOT DISABLE ORANGE OR RED TICKERS.
 
-4.) Use something like PowerSelector or a terminal app to respring and see if the issue is fixed. If the issue stops, you know the faulty tweak is in the half that you disabled. If the issue persists, the faulty tweak is in the half you didn't disable.
+4.) Re-jailbreak with `Load Tweaks` enabled or `Safe Mode` disabled and see if the issue is fixed. If the issue stops, you know the faulty tweak is in the half that you disabled. If the issue persists, the faulty tweak is in the half you didn't disable.
 
 5.) Half the half that you know has the faulty tweak in it.
 
