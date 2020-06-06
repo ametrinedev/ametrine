@@ -1,5 +1,5 @@
 # Images:
-[Troubleshooting Tab](/png/ReProvision/trouble.png)  
-[Revoke All Certificates](/png/ReProvision/revoke.png)  
+[Troubleshooting Tab](/img/ReProvision/trouble.png)  
+[Revoke All Certificates](/img/ReProvision/revoke.png)  
   
 ###### Made with ♡ by Dudeamax99 and quiprr
