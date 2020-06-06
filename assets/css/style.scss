@@ -7,6 +7,7 @@ body {
   transition: background 1s ease-in, color 1s ease-in;
 }
 .dark {
-  color: white;
-  background: black;
+  --light-text-color: hsl(0, 0%, 60%);
+  --main-background-color: hsl(0, 0%, 10%);
+  --main-text-color: hsl(0, 10%, 80%);
 }
