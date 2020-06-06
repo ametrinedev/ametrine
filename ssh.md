@@ -22,3 +22,5 @@
 3.) Get the IP Address of your iDevice by going into the Wi-fi settings and ensuring the computer and the device are on the same network, then click the i. You will see a box labelled IP Address.  
 4.) Go back to your computer in Terminal and type `ssh root@ip.address.of.phone`. The client may ask about authentication. Type `yes` and hit enter. The client will ask for a password. Type `alpine` and click enter.  
 5.) Congrats! You have now successfully SSHed into your phone and can execute commands remotely.  
+  
+###### Made with ♡ by Dudeamax99 and quiprr
