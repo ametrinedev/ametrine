@@ -1,3 +1,4 @@
+<button onclick="document.body.classList.toggle('dark')">Toggle Dark Mode</button>
 # Tutorials  
 [ReProvision](reprovision.md)  
 [bootra1n](checkra1n.md)  
