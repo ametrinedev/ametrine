@@ -23,4 +23,6 @@
 4.) Go back to your computer in Terminal and type `ssh root@ip.address.of.phone`. The client may ask about authentication. Type `yes` and hit enter. The client will ask for a password. Type `alpine` and click enter.  
 5.) Congrats! You have now successfully SSHed into your phone and can execute commands remotely.  
   
+### Note:
+It is advised you change your root password to keep your phone secure. To do this, type `passwd root` and it will ask for your new password. Don't forget this!
 ###### Made with ♡ by Dudeamax99 and quiprr
