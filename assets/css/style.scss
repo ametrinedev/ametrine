@@ -1,43 +1,27 @@
----
----
-
-@import "{{ site.theme }}";
+@import "{{ cayman }}";
 
 footer {
-    display: none !important;
+	display: none;
 }
 
 body {
-    color: #b9c0c3 !important;
-    background-color: #111111 !important;
+	color: #b9c0c3;
+	background-color: #111111;
 }
 
 a {
-    color: #97b3d0 !important;
-}
-
-.btn {
-    color: #e0e0e0 !important;
+	color: #e46c6c;
 }
 
 .main-content {
-    background-color: #111111 !important;
+	background-color: #111111;
 }
 
 .main-content h1 {
-    color: #d06c70 !important;
-}
-
-.main-content h6 {
-    color: #de5757 !important;
+	color: #d06c70;
 }
 
 .main-content code {
-    color: #dadbdc !important;
-    background-color: #1a1a1a !important;
-}
-
-.page-header {
-    background-color: #991515;
-    background-image: linear-gradient(120deg, #155799, #991515);
+	color: #dadbdc;
+	background-color: #1a1a1a;
 }

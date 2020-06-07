@@ -1,14 +1,21 @@
 # Tutorials  
-[ReProvision](reprovision.md)  
-[bootra1n](checkra1n.md)  
+[unc0ver](unc0ver/index.md)
+[ReProvision](reprovision/index.md)
+[bootra1n](bootra1n/index.md)
+
+# Guides
+[Diagnosing Bad Tweaks](diagnose.md)
+[Using SSH (Win/Mac/Linux](ssh.md)
+
 # Scripts  
-[Zebra Installer](ZebraInstaller.sh)  
-```curl -sSL ametrine.dev/ZebraInstaller.sh | bash```  
-[odysseyra1n Installer](ora1n.sh)  
-```curl -sSL ametrine.dev/ora1n.sh | bash```  
+[Zebra Installer](scripts/zebra.sh)
+```curl -sSL ametrine.dev/scripts/zebra.sh | bash```  
+[odysseyra1n Installer](scripts/odysseyra1n.sh)
+```curl -sSL ametrine.dev/scripts/odysseyra1n.sh | bash```
+ 
 # Image Library
-[unc0ver](u0Images.md)  
-[checkra1n](checkra1nImages.md)  
-[ReProvision](ReProvisionImages.md)  
+[unc0ver](unc0ver/images.md)
+[ReProvision](reprovision/images.md)
+[bootra1n](bootra1n/images.md)
   
-###### Made with ♡ by Dudeamax99 and quiprr
+###### Made with ♡ by Bypass, Dudeamax99, and quiprr
