@@ -5,7 +5,7 @@
 
 # Guides  
 [Diagnosing Bad Tweaks](diagnose.md)  
-[Using SSH (Win/Mac/Linux](ssh.md)  
+[Using SSH (Win/Mac/Linux)](ssh.md)  
 
 # Scripts  
 [Zebra Installer](scripts/zebra.sh)  
