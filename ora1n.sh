@@ -1,1 +1,0 @@
-scripts/ora1n.sh
