@@ -4,4 +4,5 @@ plugins:
   - jekyll-redirect-from
 
 title: Ametrine Development
+description: test
 google_analytics: UA-168687465-1
