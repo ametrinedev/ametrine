@@ -4,5 +4,5 @@ plugins:
   - jekyll-redirect-from
 
 title: Ametrine Development
-description: test
+description: Images, scripts and solutions to common issues we encounter in the Genius Bar of the r/Jailbreak discord server
 google_analytics: UA-168687465-1
