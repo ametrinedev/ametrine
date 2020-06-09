@@ -7,7 +7,7 @@ For unc0ver users:
 3.) Go to the iCleaner Pro app, click the + on the bottom left, click `Launch Daemons`, and turn off the OTA update daemon.  
 4.) Press apply. If your settings app hangs when pressing the software update button, you have successfully disabled OTA updates.  
 
-For checkra1n users:
+For checkra1n users:  
 1.) Add https://ib-soft.net/cydia/ to your sources in Cydia/Sileo/Zebra/Installer and install iCleaner Pro.  
 2.) Go to the iCleaner Pro app, click the + on the bottom left, click `Launch Daemons`, and turn off the OTA update daemon.  
 3.) Press apply. If your settings app hangs when pressing the software update button, you have successfully disabled OTA updates.  
