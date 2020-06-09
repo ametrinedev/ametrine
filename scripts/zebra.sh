@@ -1,4 +1,12 @@
-# Install curl, if we don't have it already
+# Zebra installer script by Ametrine. Find us at https://ametrine.dev/.
+# Check if user is root
+if [ "$EUID" -ne 0 ]; then
+echo "Script not running as root, abort."
+echo "Please run the script as root and try again."
+exit
+else
+
+# Install curl if we don't have it already
 echo "Installing curl.."
 apt install curl
 echo "Done!"
@@ -12,7 +20,7 @@ echo "Done!"
 
 # Run uicache to make sure it shows up on the homescreen
 echo "Running uicache.."
-uicache
+uicache -a
 echo "Done!"
 
 # Exit the script
