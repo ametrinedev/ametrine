@@ -4,7 +4,7 @@ if [ "$EUID" -ne 0 ]; then
 echo "Script not running as root, abort."
 echo "Please run the script as root and try again."
 exit
-else
+fi
 
 # Confirm that user needs to run the script
 echo "WARNING: This script is experimental, unsafe, and should be used with caution."
