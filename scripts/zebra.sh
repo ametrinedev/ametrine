@@ -22,6 +22,3 @@ echo "Done!"
 echo "Running uicache.."
 uicache -a
 echo "Done!"
-
-# Exit the script
-exit 1
