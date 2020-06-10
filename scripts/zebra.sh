@@ -4,6 +4,7 @@ if [ "$EUID" -ne 0 ]; then
 echo "Script not running as root, abort."
 echo "Please run the script as root and try again."
 exit
+fi
 else
 
 # Install curl if we don't have it already
