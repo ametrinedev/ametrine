@@ -22,3 +22,4 @@ echo "Done!"
 echo "Running uicache.."
 uicache -a
 echo "Done!"
+
