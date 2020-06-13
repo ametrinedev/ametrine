@@ -1,1 +1,0 @@
-dpkg --remove --force-remove-reinstreq

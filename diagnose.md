@@ -8,13 +8,13 @@ If you have a tweak breaking an app or you cannot jailbreak, launched into safe 
 
 3.) Install the iCleaner Pro package. After a respring, you should see an icon on your home screen for iCleaner Pro.  
 
-4.) Click the `+` icon on the left of your screen, click `Cydia Substrate Addons`.
+4.) Launch the app and click the `+` icon on the left of your screen, click `Cydia Substrate Addons`.
 
 5.) Disable all of the tweaks with a blue ticker. DO NOT DISABLE ORANGE OR RED TICKERS.
 
 6.) Re-jailbreak your device without `Safe Mode` (checkra1n) or `Load Tweaks` disabled (unc0ver).
 
-7.) One at a time, re-enable tweaks in iCleaner Pro and respring.
+7.) One at a time , re-enable tweaks in iCleaner Pro and respring.
 
 8.) Repeat this process until you re-enable the conflicting tweak.
 

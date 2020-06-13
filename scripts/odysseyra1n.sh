@@ -1,3 +1,6 @@
+#!/bin/bash
+# odysseyra1n installer script by Ametrine. Find us at https://ametrine.dev/.
+
 # Install libusbmuxd-tools
 echo "Installing libusbmuxd-tools.."
 sudo apt install libusbmuxd-tools
