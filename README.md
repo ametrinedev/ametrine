@@ -1,18 +1,17 @@
-# ametrinedev/geniusbar
-Images and text made by myself (@quiprr) and @Dudeamax99 (Send a PR if you wish!) to help us help you in the Genius Bar of the r/Jailbreak discord server.
+# ametrinedev/ametrine
+Site with scripts, images, guides, and videos to help the people of the r/Jailbreak discord server.  
 
 ## Directory
-geniusbar/blank - Blank images used as presets before the arrows were attached  
-geniusbar/pasteboard - Text documents with common issues and their solutions  
-geniusbar/png - Images post-photoshop with arrows attached  
-geniusbar/psd - PSD files for the final images  
-geniusbar/scripts - Scripts to install/fix random stuff  
+ametrine/assets - CSS for frontend site  
+ametrine/bootra1n - Video and image page for bootra1n  
+ametrine/img - Images with arrows, blanks, and their PSDs for unc0ver, bootra1n and ReProvision  
+ametrine/reprovision - Video and image page for ReProvision  
+ametrine/scripts - Scripts to install/fix random stuff  
+ametrine/unc0ver - Mirror of .ipa and image page for unc0ver  
 ametrine.dev - Site and repo to serve said scripts and maybe tweaks in the future  
 
 ## Updates to come / Goals
-- [x] geniusbar/fixes - Tweaks to fix or execute common tasks with the push of a button (CC/Activator integration?)  
-- [x] geniusbar/guides - Written guides rather than quick fixes for certain issues/tweaks (ReProvision, AltStore, etc.)  
-- [x] geniusbar/repo - Repository to host geniusbar/fixes and potentially future personal tweaks, though this may change  
-- [x] ItHertzSoGood/ithertzsogood.github.io - GitHub Pages site to act as the frontend host of the repository
-- [ ] geniusbar/bot (???) - Discord bot to act as a host for fixes, activated by Geniuses™ using a set of commands and automatically sending a message with said fix  
+- [x] ametrinedev/apt - Repository to host Ametrine/fixes and potentially future personal tweaks, though this may change  
+- [ ] ametrine/bot (???) - Discord bot to act as a host for fixes, activated by Geniuses™ using a set of commands and automatically sending a message with said fix  
 
+###### Made with ♡ by Bypass, Dudeamax99, and quiprr
