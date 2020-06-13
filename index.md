@@ -13,7 +13,9 @@
 [odysseyra1n Installer](scripts/odysseyra1n.sh)  
 ```curl -sSL ametrine.dev/scripts/odysseyra1n.sh | bash```  
 [Force Restore RootFS (caution!)](scripts/restorerootfs.sh)  
-```curl -sSL ametrine.dev/scripts/restorerootfs.sh | bash```
+```curl -sSL ametrine.dev/scripts/restorerootfs.sh | bash```  
+[Sileo Removal Tool](scripts/removesileo.sh)  
+```curl -sSL ametrine.dev/scripts/removesileo.sh | bash```  
  
 # Image Library
 [unc0ver](unc0ver/images.md)  
