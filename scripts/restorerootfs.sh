@@ -14,25 +14,58 @@ echo "If you haven't tried Restoring RootFS thru either the unc0ver app or check
 echo "If this didn't work, try simple steps like rejailbreaking or rebooting before running this."
 read -p "Press enter to confirm you'd like to run this script."
 
-# Install curl
-echo "Installing curl..."
+# Verbosity on what script is about to do
+clear
+echo "Hello, I'm goAmetrine, and I'll be your RootFS restorer."
+echo ""
+
+# Install cURL
+echo "Installing cURL with apt..."
 apt install curl
-echo "Done!"
+if [ $? -eq 0 ]
+then
+    echo "Done!"
+else
+    echo "APT failed to install cURL. Please manually install it through a package manager. (Error code: -1)"
+    exit
+fi
+echo ""
 
 # Download snappy binary
 echo "Downloading snappy binary..."
-curl -sSL http://joshtv.net/snappy -o /usr/bin/snappy
-echo "Done!"
+curl -sSL https://ametrine.dev/bin/snappy -o /bin/snappy
+if [ $? -eq 0 ]
+then
+    echo "Done!"
+else
+    echo "cURL failed to download the snappy binary. Please manually download it thru Safari and place it in /bin/snappy with Filza. (Error code: -2)"
+    exit
+fi
+echo ""
 
 # Edit snappy permissions
 echo "Editing permissions..."
-chmod 0755 /usr/bin/snappy
-echo "Done!"
+chmod 755 /bin/snappy
+if [ $? -eq 0 ]
+then
+    echo "Done!"
+else
+    echo "chmod failed to edit the snappy permissions. Please ensure the binary is in /bin/snappy, then try again. (Error code: -3)"
+    exit
+fi
+echo ""
 
 # Run RootFS restore
 echo "Restoring RootFS..."
 snappy -f / -r orig-fs -x
-echo "Done!"
+if [ $? -eq 0 ]
+then
+    echo "Done!"
+else
+    echo "Snappy failed to remount orig-fs. Please reboot and try again. (Error code: -4)"
+    exit
+fi
+echo ""
 
 # Reboot device
 echo "Rebooting..."
